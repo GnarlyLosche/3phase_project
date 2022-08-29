@@ -25,4 +25,4 @@ After initially joining MSCI’s ESG rating data and information on the 2021 For
 
 I found that not many features, even after initial engineering, had a strong linear relationship with my target variable of ESG Rating/it's numeric score of ESG Score shown by the correlation matrix below.
 
-![Correlation Matrix](http://lmsotfy.com/so.png](https://drive.google.com/file/d/1_o5ziRZBE88hkAR1bytcgu66dxMN9Yqr/view?usp=sharing)
+![Correlation Matrix] (https://drive.google.com/file/d/1_o5ziRZBE88hkAR1bytcgu66dxMN9Yqr/view?usp=sharing)
